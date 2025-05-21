@@ -88,6 +88,11 @@
       "required": false,
       "value": "word1,word2,word3"
     },
+    "AUTO_TYPING": {
+      "description": "make it true if you want bot to show typing",
+      "required": false,
+      "value": "true"
+    },
     "BOT_LANG": {
       "description": "Bot language",
       "required": false,
@@ -96,7 +101,7 @@
     "REJECT_CALL": {
       "description": "auto reject call, if set as true",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_STATUS_VIEW": {
       "description": "view others status",
